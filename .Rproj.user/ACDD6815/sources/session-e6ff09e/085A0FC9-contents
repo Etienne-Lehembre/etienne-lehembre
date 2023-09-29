@@ -1,0 +1,17 @@
+---
+title: "About me"
+image: img/k2d1-rand-wracc-explored-cropped.png
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/etienne-lehembre/
+  - text: HAL
+    href: https://hal.science/search/index/?q=etienne+lehembre&rows=30&level0_domain_s=info
+  - text: GitHub
+    href: https://github.com/Etienne-Lehembre
+---
+
+Greetings dear visitor. I'm Etienne, a PhD student currently working in data science. As my background is focused on theoretical computer science, I'm currently focusing on algorithm considering the mathematical relations inside structured data. Which explains why I'm working on subgraphs and pharmacophores. At the current state of the art, I'm designing methods aiming to lift the ambiguities hidden behind the expert's prior. I'm also interested in the leverages available to guide an expert through a dataset they doesn't know in the most robust possible manner. Which leads me to study the current evaluation process of the interactive pattern mining methods in order to improve them. Also, I forgot to mention that I'm currently bouldering, so, see you on the wall !

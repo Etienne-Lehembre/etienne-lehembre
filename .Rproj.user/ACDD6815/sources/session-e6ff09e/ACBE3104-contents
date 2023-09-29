@@ -1,0 +1,34 @@
+---
+title: "Education and formations"
+image: img/k2d1-rand-wracc-explored-cropped.png
+about:
+  template: marquee
+  image-shape: round
+  image-width: 20em
+---
+
+## Education
+
+**2021 - 2024: PhD in computer science.** [ANR InvovlD](https://involvd.greyc.fr/): Interactive Structured Pattern Mining ([ANR-20-CE23-0023](https://anr.fr/Projet-ANR-20-CE23-0023)). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. \[[GREYC](https://www.greyc.fr/en/home/), [University of Caen](https://www.unicaen.fr/)\]
+
+**2020 - 2021: Research internship.** Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by [ANR InvovlD](https://involvd.greyc.fr/). The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.\[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2019-2020: Research internship.** Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. \[[LITIS](https://www.litislab.fr/en)\]
+
+**2015 - 2021: Bachelor and Master in theoretical computer science.** Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science, etc... \[[University of Rouen](https://www.univ-rouen.fr/)\]
+
+**2014-2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
+
+## Formations
+
+**2022 - 2023: Formation to scientific integrity.**
+
+**2022 - 2023: Formation to KNIME.**
+
+**2021 - 2022: Strasbourg Summer Schools of Chemoinformatics ([S3C](https://infochim.chimie.unistra.fr/?p=209(ouvre%20un%20nouvel%20onglet))).**
+
+**2021 - 2022: [EGC](https://egc2022.univ-tours.fr/) winter school.**
+
+**2021 - 2022: Formation to deep learning.** \[[CNRS](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/home)\]
+
+**2021 - 2022: Formation to OpenMP.**

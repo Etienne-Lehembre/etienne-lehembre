@@ -1,0 +1,52 @@
+---
+title: "Experience"
+image: img/k2d1-rand-wracc-explored-cropped.png
+about:
+  template: marquee
+  image-shape: round
+  image-width: 20em
+---
+
+## Research
+
+**2023-2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).** Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management ([EGC](https://egc2023.sciencesconf.org/)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg.** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis.** Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management ([EGC](https://egc2022.univ-tours.fr/))** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2021 - 2022: Poster presentation at the French Society of Chemoinformatics ([SFCi](https://ggmm-sfci-lille.com/)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+------------------------------------------------------------------------
+
+## Engineering
+
+**2021 - 2024: Creation of the research tool [SGPEx](https://hal.science/hal-04057516/).** The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the [Oustanding Pattern Selector](https://hal.science/hal-03658500v1/file/IDA2022-E-LEHEMBRE.pdf) (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. \[[GREYC](https://www.greyc.fr/en/home/)\]
+
+**2022 - 2023: Supervision of an internship in second year of masters degree.** The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with [boost beast](https://www.boost.org/doc/libs/1_82_0/libs/beast/doc/html/index.html), create a JavaScript web server using [Node.js](https://nodejs.org/en) for the HTML content and [Cytoscape.js](https://js.cytoscape.org/) for the graph visualization, and run experiments on the WTRFS algorithm. \[[University of Caen Normandy](https://www.unicaen.fr/)\]
+
+**2018 - 2019: Developer internship.** Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc... The development included the use of Unity, C#, and several other tools. \[[NORSEMAN Interactive](https://www.linkedin.com/company/norseman-interactive/?originalSubdomain=fr)\]
+
+------------------------------------------------------------------------
+
+## Inter-disciplinary
+
+**2023 - 2024: Member of the research commission.** \[[University of Caen Normandy](https://www.unicaen.fr/)\]
+
+**2023 - 2024: Organization of the Doctoral School PhD's Day.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
+
+**2022 - 2024: Delegate at the doctoral school.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
+
+**2020 - 2021: Student delegate.** \[[University of Rouen](https://www.univ-rouen.fr/)\]
+
+**2018 - 2020: Private teacher.** \[[Numéro1 Scolarité](https://www.numero1-scolarite.com/)\]
+
+**2018 - 2019: Student delegate.** \[[University of Rouen](https://www.univ-rouen.fr/)\]
+
+**2017 - 2019: Mentor in algorithmic.** \[[ATACC](https://www.facebook.com/atacc.madrillet/)\]
