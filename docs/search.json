@@ -32,42 +32,49 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC, University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen)]"
+    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen)]"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Home",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC, University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen)]"
+    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen)]"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Home",
+    "section": "Publications",
+    "text": "Publications\n2023 - 2024: Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space. [GREYC]\n2021 - 2024: Sub-graph Pattern Explorer (SGPEx). [GREYC]\n2021 - 2022: Selecting Outstanding Patterns Based on their Neighbourhood. [GREYC]"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Home",
     "section": "Experience",
-    "text": "Experience\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. [GREYC]\n2023 - 2024: Member of the research commission. [University of Caen Normandy]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis. [GREYC]\n2020 - 2021: Research internship.[GREYC]\n2019-2020: Research internship. [LITIS]\n2017 - 2019: Mentor in algorithmic. [ATACC]"
+    "text": "Experience\n2023-2024: Oral presentation at the French Society of Chemoinformatics (SFCi).\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. [GREYC]\n2023 - 2024: Member of the research commission. [University of Caen Normandy]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). [GREYC]\n2020 - 2021: Research internship.[GREYC]\n2019-2020: Research internship. [LITIS]"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "Greetings dear visitor. I’m Etienne, a PhD student currently working in data science. As my background is focused on theoretical computer science, I’m currently focusing on algorithm considering the mathematical relations inside structured data. Which explains why I’m working on subgraphs and pharmacophores. At the current state of the art, I’m designing methods aiming to lift the ambiguities hidden behind the expert’s prior. I’m also interested in the leverages available to guide an expert through a dataset they doesn’t know in the most robust possible manner. Which leads me to study the current evaluation process of the interactive pattern mining methods in order to improve them. Also, I forgot to mention that I’m currently bouldering, so, see you on the wall !"
+    "text": "Greetings dear visitor. I’m Etienne Lehembre, a PhD student currently working in data science. As my background is focused on theoretical computer science, I’m currently focusing on algorithm considering the mathematical relations inside structured data. Which explains why I’m working on subgraphs and pharmacophores. At the current state of the art, I’m designing methods aiming to lift the ambiguities hidden behind the expert’s prior. I’m also interested in the leverages available to guide an expert through a dataset they doesn’t know in the most robust possible manner. Which leads me to study the current evaluation process of the interactive pattern mining methods in order to improve them. Also, I forgot to mention that I’m currently bouldering, so, see you on the wall !"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "2023-2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis. Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
+    "text": "2023-2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
   },
   {
     "objectID": "experience.html#research",
     "href": "experience.html#research",
     "title": "Experience",
     "section": "",
-    "text": "2023-2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis. Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
+    "text": "2023-2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
   },
   {
     "objectID": "experience.html#engineering",

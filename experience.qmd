@@ -17,7 +17,7 @@ about:
 
 **2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg.** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis.** Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis ([IDA](https://link.springer.com/book/10.1007/978-3-031-01333-1)).** Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management ([EGC](https://egc2022.univ-tours.fr/))** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
