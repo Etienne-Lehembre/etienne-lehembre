@@ -1,6 +1,5 @@
 ---
 title: "Given courses"
-image: img/k2d1-rand-wracc-explored-cropped.png
 about:
   template: marquee
   image-shape: round

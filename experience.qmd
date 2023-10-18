@@ -1,6 +1,5 @@
 ---
 title: "Experience"
-image: img/k2d1-rand-wracc-explored-cropped.png
 about:
   template: marquee
   image-shape: round
@@ -39,7 +38,9 @@ about:
 
 **2023 - 2024: Member of the research commission.** \[[University of Caen Normandy](https://www.unicaen.fr/)\]
 
-**2023 - 2024: Organization of the Doctoral School PhD's Day.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
+**2023 - 2024: Organization of the Doctoral School PhD's Day.** Prospecting for speakers at the PhD conference days of the MIIS doctoral school. \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
+
+**2023 - 2024: Participation at the science feast of Caen.** Creation of a vulgarization game for the science feast around recommendation systems and pharmacophores in chemoinformatics. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2022 - 2024: Delegate at the doctoral school.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
 
