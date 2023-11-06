@@ -40,7 +40,7 @@ about:
 
 **2023 - 2024: Organization of the Doctoral School PhD's Day.** Prospecting for speakers at the PhD conference days of the MIIS doctoral school. \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
 
-**2023 - 2024: Participation at the science feast of Caen.** Creation of a vulgarization game for the science feast around recommendation systems and pharmacophores in chemoinformatics. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2023 - 2024: Participation at the science feast of Caen.** Creation of a vulgarization game for the science feast around recommendation systems and pharmacophores in chemoinformatics ([OpenBadge](https://openbadgefactory.com/v1/assertion/9dc932d022fbc9118cd72e67f1a745f627ccee77)). \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2022 - 2024: Delegate at the doctoral school.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
 
