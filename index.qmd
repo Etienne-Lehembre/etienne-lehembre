@@ -20,11 +20,13 @@ about:
 
 **2021 - 2024: Bachelor and Master in theoretical computer science.** Formation in computer science and applied mathematics. \[[University of Rouen](https://www.univ-rouen.fr/)\]
 
-**2014-2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
+**2014-2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/)\]
 
 ------------------------------------------------------------------------
 
 ## Publications
+
+**2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta.** \[[GREYC](https://www.greyc.fr/en/home/),[CERMN](https://cermn.unicaen.fr/)\]
 
 **2023 - 2024: [Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space](http://xkdd2023.isti.cnr.it/papers/238.pdf).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
