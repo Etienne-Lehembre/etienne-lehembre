@@ -26,7 +26,7 @@ about:
 
 ## Publications
 
-**2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta.** \[[GREYC](https://www.greyc.fr/en/home/),[CERMN](https://cermn.unicaen.fr/)\]
+**2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta.** \[[GREYC](https://www.greyc.fr/en/home/), [CERMN](https://cermn.unicaen.fr/)\]
 
 **2023 - 2024: [Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space](http://xkdd2023.isti.cnr.it/papers/238.pdf).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
@@ -38,7 +38,7 @@ about:
 
 ## Experience
 
-**2023-2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).**
+**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).**
 
 **2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 

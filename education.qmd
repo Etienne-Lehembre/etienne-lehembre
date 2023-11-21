@@ -12,11 +12,11 @@ about:
 
 **2020 - 2021: Research internship.** Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by [ANR InvovlD](https://involvd.greyc.fr/). The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.\[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2019-2020: Research internship.** Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. \[[LITIS](https://www.litislab.fr/en)\]
+**2019 - 2020: Research internship.** Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. \[[LITIS](https://www.litislab.fr/en)\]
 
 **2015 - 2021: Bachelor and Master in theoretical computer science.** Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science, etc... \[[University of Rouen](https://www.univ-rouen.fr/)\]
 
-**2014-2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
+**2014 - 2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
 
 ## Formations
 

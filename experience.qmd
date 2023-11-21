@@ -8,7 +8,7 @@ about:
 
 ## Research
 
-**2023-2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).** Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).** Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
