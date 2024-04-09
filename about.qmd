@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: img/k2d1-rand-wracc-explored-cropped.png
+image: img/etienne_picture_cropped.jpg
 about:
   template: jolla
   image-shape: round

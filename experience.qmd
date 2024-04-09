@@ -12,6 +12,8 @@ about:
 
 **2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
+**2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 ([SMiLe 2023](https://dtai.cs.kuleuven.be/static/events/SML23/index.php)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
 **2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management ([EGC](https://egc2023.sciencesconf.org/)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg.** \[[GREYC](https://www.greyc.fr/en/home/)\]
@@ -35,6 +37,8 @@ about:
 ------------------------------------------------------------------------
 
 ## Inter-disciplinary
+
+**2023 - 2024: Participation to quality scheme workshop.** Workshop aiming to establish a quality scheme about research and innovation for the university of Caen Normandy.
 
 **2023 - 2024: Organization of the Doctoral School PhD's Day.** Prospecting for speakers at the PhD conference days of the MIIS doctoral school. \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]
 
