@@ -26,6 +26,8 @@ about:
 
 ## Publications
 
+**2023 - 2024: [WaveLSea: helping experts interactively explore pattern mining search spaces](https://rdcu.be/dI4Am).** \[[GREYC](https://www.greyc.fr/en/home/)\]
+
 **2023 - 2024: [Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta](https://link.springer.com/article/10.1186/s13321-023-00782-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231129&utm_content=10.1186/s13321-023-00782-0#citeas).** \[[GREYC](https://www.greyc.fr/en/home/), [CERMN](https://cermn.unicaen.fr/)\]
 
 **2023 - 2024: [Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space](http://xkdd2023.isti.cnr.it/papers/238.pdf).** \[[GREYC](https://www.greyc.fr/en/home/)\]
