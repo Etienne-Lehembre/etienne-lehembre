@@ -30,28 +30,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Etienne Lehembre",
     "section": "",
     "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen]"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Home",
+    "title": "Etienne Lehembre",
     "section": "",
     "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen]"
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Home",
+    "title": "Etienne Lehembre",
     "section": "Publications",
     "text": "Publications\n2023 - 2024: WaveLSea: helping experts interactively explore pattern mining search spaces. [GREYC]\n2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta. [GREYC, CERMN]\n2023 - 2024: Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space. [GREYC]\n2021 - 2024: Sub-graph Pattern Explorer (SGPEx). [GREYC]\n2021 - 2022: Selecting Outstanding Patterns Based on their Neighbourhood. [GREYC]"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Home",
+    "title": "Etienne Lehembre",
     "section": "Experience",
     "text": "Experience\n2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi).\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. [GREYC]\n2023 - 2024: Member of the research commission. [University of Caen Normandy]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). [GREYC]\n2020 - 2021: Research internship.[GREYC]\n2019-2020: Research internship. [LITIS]"
   },
@@ -81,7 +81,7 @@
     "href": "experience.html#engineering",
     "title": "Experience",
     "section": "Engineering",
-    "text": "Engineering\n2021 - 2024: Creation of the research tool SGPEx. The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the Oustanding Pattern Selector (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. [GREYC]\n2022 - 2023: Supervision of an internship in second year of masters degree. The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with boost beast, create a JavaScript web server using Node.js for the HTML content and Cytoscape.js for the graph visualization, and run experiments on the WTRFS algorithm. [University of Caen Normandy]\n2018 - 2019: Developer internship. Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc… The development included the use of Unity, C#, and several other tools. [NORSEMAN Interactive]"
+    "text": "Engineering\n2021 - 2024: Creation of the research tool SGPEx. The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the Oustanding Pattern Selector (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. [GREYC]\n2023 - 2024: Supervision of an internship in second year of engineering. The internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for WaveLSea, soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results. [GREYC]\n2022 - 2023: Supervision of an internship in second year of masters degree. The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with boost beast, create a JavaScript web server using Node.js for the HTML content and Cytoscape.js for the graph visualization, and run experiments on the WTRFS algorithm. [University of Caen Normandy]\n2018 - 2019: Developer internship. Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc… The development included the use of Unity, C#, and several other tools. [NORSEMAN Interactive]"
   },
   {
     "objectID": "experience.html#inter-disciplinary",

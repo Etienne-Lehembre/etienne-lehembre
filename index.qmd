@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "Etienne Lehembre"
+subtitle: "in short"
 image: img/etienne_picture_cropped.jpg
 about:
   template: trestles
