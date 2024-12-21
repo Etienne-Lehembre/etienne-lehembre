@@ -14,4 +14,10 @@ about:
     href: https://github.com/Etienne-Lehembre
 ---
 
-Greetings dear visitor. I'm Etienne Lehembre, a PhD student currently working in data science. As my background is focused on theoretical computer science, I'm currently focusing on algorithm considering the mathematical relations inside structured data. Which explains why I'm working on subgraphs and pharmacophores. At the current state of the art, I'm designing methods aiming to lift the ambiguities hidden behind the expert's prior. I'm also interested in the leverages available to guide an expert through a dataset they doesn't know in the most robust possible manner. Which leads me to study the current evaluation process of the interactive pattern mining methods in order to improve them. Also, I forgot to mention that I'm currently bouldering, so, see you on the wall !
+Greetings dear visitor. I'm Etienne Lehembre, a postdoctoral researcher currently working in data science. My background is focused on theoretical computer science, but I'm currently focusing on algorithms considering the mathematical relations inside structured data. I worked on subgraphs and pharmacophores during my thesis, but I'm currently getting on board with sequential data and forecasting machine learning.
+
+Regarding my PhD thesis, I worked in an ANR project called [InvolvD](https://involvd.greyc.fr/). I designed methods aiming to lift the ambiguities hidden behind the expert's prior. I'm also interested in the leverages available to guide an expert through a dataset they don't know in the most robust possible manner. Which led me to study the evaluation process of the interactive pattern mining methods in order to improve them.
+
+Nowadays, I'm taking an interest in reinforcement and machine learning in the scope of the project [Junon](https://www.brgm.fr/fr/programme/junon-jumeaux-numeriques-au-service-ressources-naturelles). In this project, I'm working with hydro-geologist on the integration of their expert knowledge in a machine learning model.
+
+Also, I forgot to mention that I'm currently bouldering, so, see you on the wall !

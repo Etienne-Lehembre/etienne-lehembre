@@ -8,26 +8,46 @@ about:
 
 ## Education
 
-**2021 - 2024: PhD in computer science.** [ANR InvovlD](https://involvd.greyc.fr/): Interactive Structured Pattern Mining ([ANR-20-CE23-0023](https://anr.fr/Projet-ANR-20-CE23-0023)). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. \[[GREYC](https://www.greyc.fr/en/home/), [University of Caen](https://www.unicaen.fr/)\]
+**2021 - 2024: Computer science PhD in data science.** \
+[ANR InvovlD](https://involvd.greyc.fr/): Interactive Structured Pattern Mining ([ANR-20-CE23-0023](https://anr.fr/Projet-ANR-20-CE23-0023)). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. \[[GREYC](https://www.greyc.fr/en/home/), [University of Caen](https://www.unicaen.fr/)\]
 
-**2020 - 2021: Research internship.** Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by [ANR InvovlD](https://involvd.greyc.fr/). The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.\[[GREYC](https://www.greyc.fr/en/home/)\]
+**2020 - 2021: Research internship in data science.** \
+Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by [ANR InvovlD](https://involvd.greyc.fr/). The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.\[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2019 - 2020: Research internship.** Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. \[[LITIS](https://www.litislab.fr/en)\]
+**2019 - 2021: Master in theoretical computer science.** \[[University of Rouen](https://www.univ-rouen.fr/)\]\
+Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science and more.
 
-**2015 - 2021: Bachelor and Master in theoretical computer science.** Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science, etc... \[[University of Rouen](https://www.univ-rouen.fr/)\]
+**2019 - 2020: Research internship in theoretical computer science.** \
+Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. \[[LITIS](https://www.litislab.fr/en)\]
 
-**2014 - 2015: Bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
+**2015 - 2021: Bachelor in computer science.** \[[University of Rouen](https://www.univ-rouen.fr/)\]
+
+**2014 - 2015: First year bachelor in English civilization.** \[[University of Rouen](https://www.univ-rouen.fr/))\]
 
 ## Formations
 
-**2022 - 2023: Formation to scientific integrity.**
+**2023 - 2024: Graphadon - graphs summer school (30h).**\
+School starting from theoretical principles on graphs, to their use as a data model, as a simulation tool for agent management and as a visualization tool.
 
-**2022 - 2023: Formation to KNIME.**
+**2023 - 2024: Formation to statistic studies (7h).\
+**Training in the use of libraries for statistical testing of data.
 
-**2021 - 2022: Strasbourg Summer Schools of Chemoinformatics ([S3C](https://infochim.chimie.unistra.fr/?p=209(ouvre%20un%20nouvel%20onglet))).**
+**2022 - 2023: Formation to scientific integrity (7h).**
 
-**2021 - 2022: [EGC](https://egc2022.univ-tours.fr/) winter school.**
+**2022 - 2023: Formation to KNIME (14h).** \
+Get to know the KNIME tool for creating pipelines from molecular database processing to supervised learning on these data.
 
-**2021 - 2022: Formation to deep learning.** \[[CNRS](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/home)\]
+**2021 - 2022: Strasbourg Summer Schools of Chemoinformatics ([S3C](https://infochim.chimie.unistra.fr/?p=209(ouvre%20un%20nouvel%20onglet))) (30h).\
+**Summerschool presenting the latest advances in the field of chemoinformatics. Technologies and methods presented include clustering, supervised and semi-supervised learning, 2D and 3D visualization, and database structuring.
 
-**2021 - 2022: Formation to OpenMP.**
+**2021 - 2022: [EGC](https://egc2022.univ-tours.fr/) winter school (14h).\
+**Winter school introducing data mining, clustering, pattern mining and visualization.
+
+**2021 - 2022: Formation to deep learning (30h).** \[[CNRS](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/home)\]\
+Course starting at the historical foundations of neural networks to the principles behind neural networks with physical information. Sessions include: the mathematics behind neural networks, convolutional neural networks, recurrent neural networks, transformers and more.
+
+**2021 - 2022: Formation to OpenMP (7h).\
+**Training in program parallelization in Fortran, C and C++.
+
+**2019 - 2020: Formation in mental gesture pedagogy (7h).\
+**Presentation of several pedagogical tools to help teachers adapt to different forms of dys (dyscalculia, dyslexia, etc.) and ADHD (Attention Deficit Disorder with or without Hyperactivity).

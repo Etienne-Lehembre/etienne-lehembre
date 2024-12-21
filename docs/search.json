@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and formations",
+    "section": "",
+    "text": "2021 - 2024: Computer science PhD in data science.\nANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. [GREYC, University of Caen]\n2020 - 2021: Research internship in data science.\nSix-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by ANR InvovlD. The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.[GREYC]\n2019 - 2021: Master in theoretical computer science. [University of Rouen]\nFormation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science and more.\n2019 - 2020: Research internship in theoretical computer science.\nThree month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. [LITIS]\n2015 - 2021: Bachelor in computer science. [University of Rouen]\n2014 - 2015: First year bachelor in English civilization. [University of Rouen)]"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education and formations",
+    "section": "",
+    "text": "2021 - 2024: Computer science PhD in data science.\nANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. [GREYC, University of Caen]\n2020 - 2021: Research internship in data science.\nSix-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by ANR InvovlD. The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.[GREYC]\n2019 - 2021: Master in theoretical computer science. [University of Rouen]\nFormation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science and more.\n2019 - 2020: Research internship in theoretical computer science.\nThree month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. [LITIS]\n2015 - 2021: Bachelor in computer science. [University of Rouen]\n2014 - 2015: First year bachelor in English civilization. [University of Rouen)]"
+  },
+  {
+    "objectID": "education.html#formations",
+    "href": "education.html#formations",
+    "title": "Education and formations",
+    "section": "Formations",
+    "text": "Formations\n2023 - 2024: Graphadon - graphs summer school (30h).\nSchool starting from theoretical principles on graphs, to their use as a data model, as a simulation tool for agent management and as a visualization tool.\n2023 - 2024: Formation to statistic studies (7h).\nTraining in the use of libraries for statistical testing of data.\n2022 - 2023: Formation to scientific integrity (7h).\n2022 - 2023: Formation to KNIME (14h).\nGet to know the KNIME tool for creating pipelines from molecular database processing to supervised learning on these data.\n2021 - 2022: Strasbourg Summer Schools of Chemoinformatics (S3C) (30h).\nSummerschool presenting the latest advances in the field of chemoinformatics. Technologies and methods presented include clustering, supervised and semi-supervised learning, 2D and 3D visualization, and database structuring.\n2021 - 2022: EGC winter school (14h).\nWinter school introducing data mining, clustering, pattern mining and visualization.\n2021 - 2022: Formation to deep learning (30h). [CNRS]\nCourse starting at the historical foundations of neural networks to the principles behind neural networks with physical information. Sessions include: the mathematics behind neural networks, convolutional neural networks, recurrent neural networks, transformers and more.\n2021 - 2022: Formation to OpenMP (7h).\nTraining in program parallelization in Fortran, C and C++.\n2019 - 2020: Formation in mental gesture pedagogy (7h).\nPresentation of several pedagogical tools to help teachers adapt to different forms of dys (dyscalculia, dyslexia, etc.) and ADHD (Attention Deficit Disorder with or without Hyperactivity)."
+  },
+  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Given courses",
@@ -7,87 +28,80 @@
     "text": "Master’s first year:\n\nGraph and complexity (Tutorials): This course is focused on the design, execution and complexity of graph algorithms.\n\nBachelor’s third year:\n\nAdvanced software design project (Practical tutorials): Supervision of several projects designed to lead students towards a research and development approach.\n\nBachelor’s second year:\n\nMathematics for computer science (Tutorials): Study the links between algebra, analysis and computer science. In this course, students are encouraged to use mathematical notions to better design algorithms and their implementations.\nFunctional programming (Practical tutorials): Introduction to functional programming paradigm.\nSoftware design project (Practical tutorials): Supervision of several projects designed to lead students towards project engineering.\nDecision Support and Security (Practical tutorials): Introduction to cryptography."
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education and formations",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. [GREYC, University of Caen]\n2020 - 2021: Research internship. Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by ANR InvovlD. The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.[GREYC]\n2019 - 2020: Research internship. Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. [LITIS]\n2015 - 2021: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science, etc… [University of Rouen]\n2014 - 2015: Bachelor in English civilization. [University of Rouen)]"
+    "text": "Greetings dear visitor. I’m Etienne Lehembre, a postdoctoral researcher currently working in data science. My background is focused on theoretical computer science, but I’m currently focusing on algorithms considering the mathematical relations inside structured data. I worked on subgraphs and pharmacophores during my thesis, but I’m currently getting on board with sequential data and forecasting machine learning.\nRegarding my PhD thesis, I worked in an ANR project called InvolvD. I designed methods aiming to lift the ambiguities hidden behind the expert’s prior. I’m also interested in the leverages available to guide an expert through a dataset they don’t know in the most robust possible manner. Which led me to study the evaluation process of the interactive pattern mining methods in order to improve them.\nNowadays, I’m taking an interest in reinforcement and machine learning in the scope of the project Junon. In this project, I’m working with hydro-geologist on the integration of their expert knowledge in a machine learning model.\nAlso, I forgot to mention that I’m currently bouldering, so, see you on the wall !"
   },
   {
-    "objectID": "education.html#education",
-    "href": "education.html#education",
-    "title": "Education and formations",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experiences",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). The thesis is developed in collaboration with drug design scientists working on molecules and pharmacophores. This work aims to use a Partially Ordered Graph to provide key elements to chemists in order to help them discover key fragments for biological activity. For that we use various techniques as: local contrast selector (Outstanding Pattern Selector) and interactive reinforcement learning. [GREYC, University of Caen]\n2020 - 2021: Research internship. Six-month internship in chemoinformatics supervised by A. ZIMMERMANN, B. CUISSART and A. OUALI ; funded by ANR InvovlD. The theme concerns the structuring of graph mining and the introduction of interactivity into the latter.[GREYC]\n2019 - 2020: Research internship. Three month internship supervised by P. CARON, covering the understanding of some of the sub-families of star-free languages. [LITIS]\n2015 - 2021: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. Main topics where: Formal Languages, Computability, Algorithmic, Cryptography, Logic, Information Theory, Data Mining, Algorithmic Formal Analysis, Game Theory, Algebraic Combinatorics and Enumeration, Automata Theory, Quantum Computer Science, etc… [University of Rouen]\n2014 - 2015: Bachelor in English civilization. [University of Rouen)]"
+    "text": "2024 - 2026: Post-doctoral researcher in machine learning. [LIFO]\nDeveloping new algorithms and AIs for groundwater levels forecasting as part of the project Junon for the BRGM with the help of python and pytorch."
   },
   {
-    "objectID": "education.html#formations",
-    "href": "education.html#formations",
-    "title": "Education and formations",
-    "section": "Formations",
-    "text": "Formations\n2022 - 2023: Formation to scientific integrity.\n2022 - 2023: Formation to KNIME.\n2021 - 2022: Strasbourg Summer Schools of Chemoinformatics (S3C).\n2021 - 2022: EGC winter school.\n2021 - 2022: Formation to deep learning. [CNRS]\n2021 - 2022: Formation to OpenMP."
+    "objectID": "experience.html#research",
+    "href": "experience.html#research",
+    "title": "Experiences",
+    "section": "",
+    "text": "2024 - 2026: Post-doctoral researcher in machine learning. [LIFO]\nDeveloping new algorithms and AIs for groundwater levels forecasting as part of the project Junon for the BRGM with the help of python and pytorch."
+  },
+  {
+    "objectID": "experience.html#communication",
+    "href": "experience.html#communication",
+    "title": "Experiences",
+    "section": "Communication",
+    "text": "Communication\n2023 - 2024: Oral presentation at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD2024).\nPresentation of WaveLSea (Wave top-k random-d Lineage Search), an interactive algorithm for pattern exploration, and the soothsayers, a novel paradigm for the evaluation of interactive algorithm.\n2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi).\nPresentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023.\nPresentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 (SMiLe 2023). [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). [GREYC]\nSymposium on data, knowledge representation and machine learning.\nPresentation of a novel local contrast selector aiming to select outstanding patterns in data regarding the sibling context.\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\nConference going from data creation and management, to machine learning and data mining.\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]\nSymposium addressing feature extraction, machine learning, visualization and more.\nPresenting my first work going from molecules to the creation of a data structure of their biological behaviors allowing us to find outlyers."
+  },
+  {
+    "objectID": "experience.html#other-conferences",
+    "href": "experience.html#other-conferences",
+    "title": "Experiences",
+    "section": "Other Conferences",
+    "text": "Other Conferences\n2024 - 2025: Symposium “Digital twins: from creation to communication”. [LIFO]\nFrom the conception and creation of digital twins to the importance of state-of-the art visualization techniques and their influence on our decision, without forgetting to address the question of using them for various tasks as forecasting or clustering."
+  },
+  {
+    "objectID": "experience.html#engineering",
+    "href": "experience.html#engineering",
+    "title": "Experiences",
+    "section": "Engineering",
+    "text": "Engineering\n2021 - 2024: Creation of the research tool SGPEx.\nThe SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the Oustanding Pattern Selector (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. [GREYC]\n2023 - 2024: Supervision of an internship in second year of engineering.\nThe internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for WaveLSea, soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results. [GREYC]\n2022 - 2023: Supervision of an internship in second year of masters degree.\nThe intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with boost beast, create a JavaScript web server using Node.js for the HTML content and Cytoscape.js for the graph visualization, and run experiments on the WTRFS algorithm. [University of Caen Normandy]\n2018 - 2019: Developer internship.\nDevelopment of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc… The development included the use of Unity, C#, and several other tools. [NORSEMAN Interactive]"
+  },
+  {
+    "objectID": "experience.html#collective-responsibilities-and-others",
+    "href": "experience.html#collective-responsibilities-and-others",
+    "title": "Experiences",
+    "section": "Collective responsibilities and others",
+    "text": "Collective responsibilities and others\n2023 - 2024: Participation to quality scheme workshop.\nWorkshop aiming to establish a quality scheme about research and innovation for the university of Caen Normandy.\n2023 - 2024: Organization of the Doctoral School PhD’s Day. [ED MIIS]\nProspecting for speakers at the PhD conference days of the MIIS doctoral school.\n2023 - 2024: Participation at the science feast of Caen. [GREYC]\nCreation of a vulgarization game for the science feast around recommendation systems and pharmacophores in chemoinformatics (OpenBadge).\n2022 - 2024: Member of the university research commission. [University of Caen Normandy]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2020 - 2021: Student delegate. [University of Rouen]\n2018 - 2020: Private teacher. [Numéro1 Scolarité]\n2018 - 2019: Student delegate. [University of Rouen]\n2017 - 2019: Mentor in algorithmic. [ATACC]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Etienne Lehembre",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen]"
+    "text": "2024 - 2026: Post-doctoral researcher in machine learning. [LIFO]\n2021 - 2024: PhD in data science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#education-positions",
+    "href": "index.html#education-positions",
     "title": "Etienne Lehembre",
     "section": "",
-    "text": "2021 - 2024: PhD in computer science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]\n2014-2015: Bachelor in English civilization. [University of Rouen]"
+    "text": "2024 - 2026: Post-doctoral researcher in machine learning. [LIFO]\n2021 - 2024: PhD in data science. ANR InvovlD: Interactive Structured Pattern Mining (ANR-20-CE23-0023). [GREYC][University of Caen]\n2021 - 2024: Bachelor and Master in theoretical computer science. Formation in computer science and applied mathematics. [University of Rouen]"
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "Etienne Lehembre",
     "section": "Publications",
-    "text": "Publications\n2023 - 2024: WaveLSea: helping experts interactively explore pattern mining search spaces. [GREYC]\n2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta. [GREYC, CERMN]\n2023 - 2024: Wave Top-k Random-d Family Search: How to Guide an Expert in a Structured Pattern Space. [GREYC]\n2021 - 2024: Sub-graph Pattern Explorer (SGPEx). [GREYC]\n2021 - 2022: Selecting Outstanding Patterns Based on their Neighbourhood. [GREYC]"
+    "text": "Publications\n2023 - 2024: WaveLSea: helping experts interactively explore pattern mining search spaces. [GREYC]\n2023 - 2024: Towards a Partial Order Graph for Interactive Pharmacophore Exploration: Extraction of Pharmacophores Activity Delta. [GREYC, CERMN]\n\n\n2021 - 2022: Selecting Outstanding Patterns Based on their Neighbourhood. [GREYC]"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#experiences",
+    "href": "index.html#experiences",
     "title": "Etienne Lehembre",
-    "section": "Experience",
-    "text": "Experience\n2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi).\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. [GREYC]\n2023 - 2024: Member of the research commission. [University of Caen Normandy]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). [GREYC]\n2020 - 2021: Research internship.[GREYC]\n2019-2020: Research internship. [LITIS]"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "Greetings dear visitor. I’m Etienne Lehembre, a PhD student currently working in data science. As my background is focused on theoretical computer science, I’m currently focusing on algorithm considering the mathematical relations inside structured data. Which explains why I’m working on subgraphs and pharmacophores. At the current state of the art, I’m designing methods aiming to lift the ambiguities hidden behind the expert’s prior. I’m also interested in the leverages available to guide an expert through a dataset they doesn’t know in the most robust possible manner. Which leads me to study the current evaluation process of the interactive pattern mining methods in order to improve them. Also, I forgot to mention that I’m currently bouldering, so, see you on the wall !"
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
-    "section": "",
-    "text": "2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 (SMiLe 2023). [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
-  },
-  {
-    "objectID": "experience.html#research",
-    "href": "experience.html#research",
-    "title": "Experience",
-    "section": "",
-    "text": "2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi). Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. [GREYC]\n2023 - 2024: Oral presentation at the XKDD workshop at ECML-PKDD2023. Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. [GREYC]\n2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 (SMiLe 2023). [GREYC]\n2022 - 2023: Oral presentation at the Conference of Knowledge Extraction and Management (EGC). [GREYC]\n2021 - 2022: Poster presentation at the Chemical Summer School of Strasbourg. [GREYC]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). Presentation of a novel local contrast selector aiming to select remarkable patterns regarding the sibling context. [GREYC]\n2021 - 2022: Poster presentation at the Conference of Knowledge Extraction and Management (EGC) [GREYC]\n2021 - 2022: Poster presentation at the French Society of Chemoinformatics (SFCi). [GREYC]"
-  },
-  {
-    "objectID": "experience.html#engineering",
-    "href": "experience.html#engineering",
-    "title": "Experience",
-    "section": "Engineering",
-    "text": "Engineering\n2021 - 2024: Creation of the research tool SGPEx. The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the Oustanding Pattern Selector (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. [GREYC]\n2023 - 2024: Supervision of an internship in second year of engineering. The internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for WaveLSea, soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results. [GREYC]\n2022 - 2023: Supervision of an internship in second year of masters degree. The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with boost beast, create a JavaScript web server using Node.js for the HTML content and Cytoscape.js for the graph visualization, and run experiments on the WTRFS algorithm. [University of Caen Normandy]\n2018 - 2019: Developer internship. Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc… The development included the use of Unity, C#, and several other tools. [NORSEMAN Interactive]"
-  },
-  {
-    "objectID": "experience.html#inter-disciplinary",
-    "href": "experience.html#inter-disciplinary",
-    "title": "Experience",
-    "section": "Inter-disciplinary",
-    "text": "Inter-disciplinary\n2023 - 2024: Participation to quality scheme workshop. Workshop aiming to establish a quality scheme about research and innovation for the university of Caen Normandy.\n2023 - 2024: Organization of the Doctoral School PhD’s Day. Prospecting for speakers at the PhD conference days of the MIIS doctoral school. [ED MIIS]\n2023 - 2024: Participation at the science feast of Caen. Creation of a vulgarization game for the science feast around recommendation systems and pharmacophores in chemoinformatics (OpenBadge). [GREYC]\n2022 - 2024: Member of the university research commission. [University of Caen Normandy]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2020 - 2021: Student delegate. [University of Rouen]\n2018 - 2020: Private teacher. [Numéro1 Scolarité]\n2018 - 2019: Student delegate. [University of Rouen]\n2017 - 2019: Mentor in algorithmic. [ATACC]"
+    "section": "Experiences",
+    "text": "Experiences\n2024 - 2025: Oral presentation at ECML-PKDD2024. [GREYC]\n2023 - 2024: Oral presentation at the French Society of Chemoinformatics (SFCi).\n2023 - 2024: Member of the research commission. [University of Caen Normandy]\n2022 - 2024: Delegate at the doctoral school. [ED MIIS]\n2021 - 2022: Oral presentation at the Symposium on Intelligent Data Analysis (IDA). [GREYC]\n2020 - 2021: Research internship in data science. [GREYC]\n2019-2020: Research internship in theoretical computer science. [LITIS]"
   }
 ]
