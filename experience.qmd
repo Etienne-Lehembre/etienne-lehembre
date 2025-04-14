@@ -16,10 +16,10 @@ about:
 **2023 - 2024: Oral presentation at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD2024](https://ecmlpkdd.org/2024/)).**\
 Presentation of WaveLSea (Wave top-k random-d Lineage Search), an interactive algorithm for pattern exploration, and the soothsayers, a novel paradigm for the evaluation of interactive algorithm.
 
-**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).** \
+**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).**\
 Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** \
+**2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).**\
 Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 ([SMiLe 2023](https://dtai.cs.kuleuven.be/static/events/SML23/index.php)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
@@ -43,6 +43,8 @@ Presenting my first work going from molecules to the creation of a data structur
 
 ## Other Conferences
 
+**2024 - 2025: Conference of Knowledge Extraction and Management ([EGC](https://egc2023.sciencesconf.org/)).** \[[LIFO](https://www.univ-orleans.fr/lifo/?lang=en)\]
+
 **2024 - 2025: Symposium "[Digital twins: from creation to communication](https://www.lestudium-ias.com/events/digital-twins-creation-communication)".** \[[LIFO](https://www.univ-orleans.fr/lifo/?lang=en)\]\
 From the conception and creation of digital twins to the importance of state-of-the art visualization techniques and their influence on our decision, without forgetting to address the question of using them for various tasks as forecasting or clustering.
 
@@ -50,23 +52,23 @@ From the conception and creation of digital twins to the importance of state-of-
 
 ## Engineering
 
-**2021 - 2024: Creation of the research tool [SGPEx](https://hal.science/hal-04057516/).** \
+**2021 - 2024: Creation of the research tool [SGPEx](https://hal.science/hal-04057516/).**\
 The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the [Oustanding Pattern Selector](https://hal.science/hal-03658500v1/file/IDA2022-E-LEHEMBRE.pdf) (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2023 - 2024: Supervision of an internship in second year of engineering.** \
+**2023 - 2024: Supervision of an internship in second year of engineering.**\
 The internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for [WaveLSea](https://hal.science/hal-04589011v1), soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results. \[[GREYC](https://www.greyc.fr/en/home/)\]
 
-**2022 - 2023: Supervision of an internship in second year of masters degree.** \
+**2022 - 2023: Supervision of an internship in second year of masters degree.**\
 The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with [boost beast](https://www.boost.org/doc/libs/1_82_0/libs/beast/doc/html/index.html), create a JavaScript web server using [Node.js](https://nodejs.org/en) for the HTML content and [Cytoscape.js](https://js.cytoscape.org/) for the graph visualization, and run experiments on the WTRFS algorithm. \[[University of Caen Normandy](https://www.unicaen.fr/)\]
 
-**2018 - 2019: Developer internship.** \
+**2018 - 2019: Developer internship.**\
 Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc... The development included the use of Unity, C#, and several other tools. \[[NORSEMAN Interactive](https://www.linkedin.com/company/norseman-interactive/?originalSubdomain=fr)\]
 
 ------------------------------------------------------------------------
 
 ## Collective responsibilities and others
 
-**2023 - 2024: Participation to quality scheme workshop.** \
+**2023 - 2024: Participation to quality scheme workshop.**\
 Workshop aiming to establish a quality scheme about research and innovation for the university of Caen Normandy.
 
 **2023 - 2024: Organization of the Doctoral School PhD's Day.** \[[ED MIIS](https://ed-miis.normandie-univ.fr/en/)\]\
