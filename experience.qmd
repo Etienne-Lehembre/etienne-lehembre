@@ -11,16 +11,22 @@ about:
 **2024 - 2026: Post-doctoral researcher in machine learning.** \[[LIFO](https://www.univ-orleans.fr/lifo/?lang=en)\]**\
 **Developing new algorithms and AIs for groundwater levels forecasting as part of the project [Junon](https://www.brgm.fr/en/programme/junon-digital-twins-working-natural-resources) for the [BRGM](https://www.brgm.fr/en) with the help of python and pytorch.
 
-## Communication
+## Communications
 
-**2023 - 2024: Oral presentation at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD2024](https://ecmlpkdd.org/2024/)).**\
-Presentation of WaveLSea (Wave top-k random-d Lineage Search), an interactive algorithm for pattern exploration, and the soothsayers, a novel paradigm for the evaluation of interactive algorithm.
+**2024 - 2025 : Oral presentation at the Physics-informed learning and large models day ([GDR IASIS](https://gdr-iasis.cnrs.fr/reunions/journee-apprentissage-informe-par-la-physique-et-grands-modeles/)).** \[[LIFO](https://www.univ-orleans.fr/lifo/?lang=en)\]\
+The presentation topic was groundwater prediction and the use of physical equations with unobservable variables in recurrent neural networks.\
+**Abstract :** The management of water reserves is becoming a crucial issue in the context of climate change. In order to predict the future availability of groundwater, the BRGM uses the GARDENIA software, based on a simplified physical model using reservoirs and siphon mechanisms, integrating both observable (such as precipitation or water level) and unobservable variables (such as half-life factors or the equilibrium factor between flow and percolation). The aim of our work is to predict groundwater levels while maintaining consistency with the GARDENIA model. To achieve this, we developed a physics-informed deep learning model, integrating the GARDENIA equations as constraints during learning.
 
-**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).**\
-Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2023 - 2024: Oral presentation at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD2024](https://ecmlpkdd.org/2024/)).** \[[GREYC](https://www.greyc.fr/en/home/)\]\
+Presentation of WaveLSea (Wave top-k random-d Lineage Search), an interactive algorithm for pattern exploration, and the soothsayers, a novel paradigm for the evaluation of interactive algorithm.\
+**Abstract :** The method Wave Top-k Random-d Lineage Search (WaveLSea) which guides an expert through data mining results according to her interest. The method exploits expert feedback, combined with the relation between patterns to spread the expert’s interest. It avoids the typical feature definition step commonly used in interactive data mining which limits the flexibility of the discovery process. We empirically demonstrate
+that WaveLSea returns the most relevant results for the user’s subjective interest. Even with imperfect feedback, WaveLSea behavior remains robust as it primarily still delivers most interesting results during experiments on graph-structured data. In order to assess the robustness of the method we design novel oracles called soothsayers giving imperfect feedback.
 
-**2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).**\
-Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).** \[[GREYC](https://www.greyc.fr/en/home/)\]\
+Presentation of the SubGaph Pattern Explorer (SGPEx) package as well as its user interface, the Wave Top-k Random-d Family Search algorithm (WTRFS), and the creation of a structured space of pharmacophore influenced by the expert interactions.
+
+**2023 - 2024: Oral presentation at the [XKDD](http://xkdd2023.isti.cnr.it/) workshop at [ECML-PKDD2023](https://2023.ecmlpkdd.org/).** \[[GREYC](https://www.greyc.fr/en/home/)\]\
+Presentation of a novel interactive pattern mining method, WTRFS, as well as the novel procedures to evaluate them.
 
 **2022 - 2023: Poster presentation at Spring workshop on Mining and Learning 2023 ([SMiLe 2023](https://dtai.cs.kuleuven.be/static/events/SML23/index.php)).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
@@ -52,17 +58,17 @@ From the conception and creation of digital twins to the importance of state-of-
 
 ## Engineering
 
-**2021 - 2024: Creation of the research tool [SGPEx](https://hal.science/hal-04057516/).**\
-The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the [Oustanding Pattern Selector](https://hal.science/hal-03658500v1/file/IDA2022-E-LEHEMBRE.pdf) (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2021 - 2024: Creation of the research tool [SGPEx](https://hal.science/hal-04057516/).** \[[GREYC](https://www.greyc.fr/en/home/)\]\
+The SubGraph Pattern Explorer is a C++ package with a JS UI designed to guide experts through a subgraph pattern language. This tools allows to exploit the partial order relation of the subgraph inclusion to structure the pattern language. It allows the application of several quality measures and implements novel ones as the [Oustanding Pattern Selector](https://hal.science/hal-03658500v1/file/IDA2022-E-LEHEMBRE.pdf) (OPS), also known as the Pharmacophore Activity Delta selector (PAD), and the Eclat measure. This tools also implements the Wave Top-k Random-d Family Search (WTRFS) exploration algorithm designed to guide experts in an unknown subgraph pattern language without any prior.
 
-**2023 - 2024: Supervision of an internship in second year of engineering.**\
-The internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for [WaveLSea](https://hal.science/hal-04589011v1), soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results. \[[GREYC](https://www.greyc.fr/en/home/)\]
+**2023 - 2024: Supervision of an internship in second year of engineering.** \[[GREYC](https://www.greyc.fr/en/home/), [EnsiCaen](https://www.ensicaen.fr/?lang=en)\]\
+The internship was focused on the development of soothsayers, a novel way of evaluating interactive pattern mining methods. Soothsayers are oracles making controlled errors and simulating the learning curve of a user. Originally developed for [WaveLSea](https://hal.science/hal-04589011v1), soothsayers allows us to evaluate the robustness of interactive pattern mining algorithms. The soothsayers have been added to an implementation of LeTSip and Dispale and have given satisfying results.
 
-**2022 - 2023: Supervision of an internship in second year of masters degree.**\
-The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with [boost beast](https://www.boost.org/doc/libs/1_82_0/libs/beast/doc/html/index.html), create a JavaScript web server using [Node.js](https://nodejs.org/en) for the HTML content and [Cytoscape.js](https://js.cytoscape.org/) for the graph visualization, and run experiments on the WTRFS algorithm. \[[University of Caen Normandy](https://www.unicaen.fr/)\]
+**2022 - 2023: Supervision of an internship in second year of masters degree.** \[[GREYC](https://www.greyc.fr/en/home/), [University of Caen Normandy](https://www.unicaen.fr/)\]\
+The intership was focused on the creation of a User Interface for the SGPEx package. The intern had to: add a websocket to the pre-existing code with [boost beast](https://www.boost.org/doc/libs/1_82_0/libs/beast/doc/html/index.html), create a JavaScript web server using [Node.js](https://nodejs.org/en) for the HTML content and [Cytoscape.js](https://js.cytoscape.org/) for the graph visualization, and run experiments on the WTRFS algorithm.
 
-**2018 - 2019: Developer internship.**\
-Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc... The development included the use of Unity, C#, and several other tools. \[[NORSEMAN Interactive](https://www.linkedin.com/company/norseman-interactive/?originalSubdomain=fr)\]
+**2018 - 2019: Developer internship.** \[[NORSEMAN Interactive](https://www.linkedin.com/company/norseman-interactive/?originalSubdomain=fr)\]\
+Development of a mobile game engine for interactive story telling on Android. Including the User Interface design, sound design, parameters, history management, rollback, etc... The development included the use of Unity, C#, and several other tools.
 
 ------------------------------------------------------------------------
 
@@ -88,3 +94,17 @@ Creation of a vulgarization game for the science feast around recommendation sys
 **2018 - 2019: Student delegate.** \[[University of Rouen](https://www.univ-rouen.fr/)\]
 
 **2017 - 2019: Mentor in algorithmic.** \[[ATACC](https://www.facebook.com/atacc.madrillet/)\]
+
+------------------------------------------------------------------------
+
+## Article reviews
+
+**International conferences:**
+
+-   **PAKDD 2023**
+
+**International workshops:**
+
+-   **MLSA 2024**
+
+-   **MLSA 2023**

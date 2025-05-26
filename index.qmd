@@ -43,6 +43,8 @@ about:
 
 ## Experiences
 
+**2024 - 2025: Oral presentation at [the Physics-informed learning and large models day](https://gdr-iasis.cnrs.fr/reunions/journee-apprentissage-informe-par-la-physique-et-grands-modeles/).** \[[LIFO](https://www.univ-orleans.fr/lifo/?lang=en)\]
+
 **2024 - 2025: Oral presentation at [ECML-PKDD2024](https://ecmlpkdd.org/2024/).** \[[GREYC](https://www.greyc.fr/en/home/)\]
 
 **2023 - 2024: Oral presentation at the French Society of Chemoinformatics** **([SFCi](https://ggmm-sfci-lille.com/)).**
