@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: img/etienne_picture_cropped.jpg
+image: img/ecmlpkdd.jpg
 about:
   template: jolla
   image-shape: round

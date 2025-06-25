@@ -1,7 +1,7 @@
 ---
 title: "Etienne Lehembre"
 subtitle: "in short"
-image: img/etienne_picture_cropped.jpg
+image: img/ecmlpkdd.jpg
 about:
   template: trestles
   image-shape: round
