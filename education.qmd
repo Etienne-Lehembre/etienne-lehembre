@@ -26,6 +26,9 @@ Three month internship supervised by P. CARON, covering the understanding of som
 
 ## Formations
 
+**2024 - 2025: AI4Science - Summer School on Advancing Scientific Discovery with AI (30h).**\
+Summer school providing participants with an in-depth understanding of using AI to accelerate and enhance the scientific discovery process. It covers multiple topics, such as machine learning for scientific data analysis, AI-based experimental design and optimization, generative models in scientific applications, and integrating AI in physical simulations and theoretical frameworks.
+
 **2023 - 2024: Graphadon - graphs summer school (30h).**\
 School starting from theoretical principles on graphs, to their use as a data model, as a simulation tool for agent management and as a visualization tool.
 

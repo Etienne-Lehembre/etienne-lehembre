@@ -74,6 +74,9 @@ Development of a mobile game engine for interactive story telling on Android. In
 
 ## Collective responsibilities and others
 
+**2025 - 2026: program committee member of IDA2026.**\
+Participation to the biding and peer reviewing phase of IDA.
+
 **2023 - 2024: Participation to quality scheme workshop.**\
 Workshop aiming to establish a quality scheme about research and innovation for the university of Caen Normandy.
 
@@ -99,11 +102,12 @@ Creation of a vulgarization game for the science feast around recommendation sys
 
 ## Article reviews
 
-**International conferences:**
+**International conferences I reviewed for:**
 
+-   **AAAI 2026**
 -   **PAKDD 2023**
 
-**International workshops:**
+**International workshops I reviewed for:**
 
 -   **MLSA 2024**
 
