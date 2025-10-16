@@ -1,6 +1,6 @@
 ---
 title: "Etienne Lehembre"
-subtitle: "in short"
+subtitle: "In short"
 image: img/ecmlpkdd.jpg
 about:
   template: trestles
@@ -13,6 +13,7 @@ about:
     href: https://hal.science/search/index/?q=etienne+lehembre&rows=30&level0_domain_s=info
   - text: GitHub
     href: https://github.com/Etienne-Lehembre
+description: I am a researcher in data science, interested in time series forecasting, data mining and machine learning applications for real-world data. My current work focuses on hybrid models combining physical knowledge and deep learning. This page provides a short overview of my background, interests, and selected works.
 ---
 
 ## Education & positions
